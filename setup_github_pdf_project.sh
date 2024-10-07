@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Script variables (edit these according to your project needs)
+# Script variables
 REPO_NAME="form-fillable-pdf-generator"
 PYTHON_SCRIPT_NAME="generate_pdf.py"
-GITHUB_USER="your-github-username"  # Replace with your GitHub username
+GITHUB_USER="hausmedia"  # Hardcoded GitHub username
 DESCRIPTION="A form-fillable PDF generator using Python."
 BRANCH="main"
 
